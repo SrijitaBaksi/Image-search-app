@@ -2,7 +2,7 @@
 
 Welcome to the **Image Search App** – a dynamic and visually captivating web application built with HTML, CSS, and JavaScript. This app allows users to search for images effortlessly, providing a seamless and interactive experience.
 
-![Image Search App Screenshot](images/image_search_app_screenshot.png)
+![Image Search App Screenshot](imgSearch1.jpeg)
 
 ## **Features** ✨
 
